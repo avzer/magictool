@@ -9,6 +9,11 @@
         "issues": "https://github.com/avzer/magictool/issues"
     },
     "authors": [
-    
+        {
+            "name": "Wei",
+            "email": "ghostwei@gmail.com",
+            "homepage": "https://github.com/avzer",
+            "role": "Developer"
+        }
     ]
 }
